@@ -1,6 +1,7 @@
 ### Hello there 👋
 Am mwa this is my github 
 Full bio found in links
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/834293703333642240)](https://discord.com/users/834293703333642240)
 https://skillicons.dev/icons?i=html,css
 ### Skills
