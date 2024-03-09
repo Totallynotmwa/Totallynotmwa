@@ -8,4 +8,4 @@ Full bio found in links
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-
+![](https://komarev.com/ghpvc/?Totallynotmwa)
