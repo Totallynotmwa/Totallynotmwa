@@ -1,4 +1,4 @@
-[![The "War didnt start in october 7th](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)]([[[https://github.com/Safouene1/support-palestine-banner](https://arab.org/click-to-help/palestine/)](https://arab.org/click-to-help/palestine/)](https://arab.org/click-to-help/palestine/))
+[![The "War didnt start in october 7th](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)]([[[[https://github.com/Safouene1/support-palestine-banner](https://arab.org/click-to-help/palestine/)]
 ### Hello there 👋
 Am mwa this is my github 
 Full bio found in links
