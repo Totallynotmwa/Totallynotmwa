@@ -14,7 +14,7 @@ detailed bio found in links
 
 [![Image of Profile-views](https://github.com/Totallynotmwa/Profile-views/blob/master/svg/766914683/badge.svg)](https://github.com/Totallynotmwa/Profile-views/blob/master/readme/766914683/week.md)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/834293703333642240)](https://discord.com/users/834293703333642240)
+[![Discord Presence](https://lanyard.cnrad.dev/api/834293703333642240)](https://discord.gg/z9ZkAY45bc)
 ### Online status meaning for above (Moved here cuz low charaters in discord and i might forgot to update status)
 🟢
 Can talk (Spam=ignored ping when reply)
