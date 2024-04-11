@@ -15,5 +15,5 @@ detailed bio found in links
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,tailwind,astro)](https://skillicons.dev)
 
