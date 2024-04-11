@@ -16,7 +16,7 @@ detailed bio found in links
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/834293703333642240)](https://discord.com/users/834293703333642240)
 ### Online status meaning for above (Moved here cuz low charaters + it makes sense)
-🟢/📱
+🟢
 Can talk (Spam=ignored ping when reply)
 <br>
 ⛔
