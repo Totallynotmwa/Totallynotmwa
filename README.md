@@ -22,7 +22,7 @@ Can talk (Spam=ignored ping when reply)
 ⛔
 Busy on smth else in my life
 <Br>
-🌙
+🟡
 Praying,Idle,Left my pc on,etc
 <br>
 ⚫
