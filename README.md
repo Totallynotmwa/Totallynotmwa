@@ -28,7 +28,8 @@ Praying,Idle,Left my pc on,Showering,etc
 ⚫
  Sleeping,alt,etc
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=js,ts,tailwind,astro,svelte)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=css,js,ts,tailwind,astro,svelte)](https://skillicons.dev)|
+Yeah forgot alot about css
 
