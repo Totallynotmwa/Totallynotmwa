@@ -28,6 +28,7 @@ Praying,Idle,Left my pc on,Showering,etc
 ⚫
  Sleeping,alt,etc
 <br> 
+### Note
 If in my discord about me i dont have how much days before bday then my bday passed
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
