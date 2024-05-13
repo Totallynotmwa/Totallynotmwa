@@ -31,9 +31,9 @@ Praying,Idle,Left my pc on,Showering,etc
 ### Note
 If in my discord about me i dont have how much days before bday then my bday passed
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,astro)](https://skillicons.dev)
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=css,js,ts,tailwind,astro,svelte)](https://skillicons.dev)
+[![Learning/partially ik](https://skillicons.dev/icons?i=js,ts,tailwind,svelte)](https://skillicons.dev)
 <br>
 Yeah forgot alot about css
 
