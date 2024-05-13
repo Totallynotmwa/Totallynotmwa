@@ -34,6 +34,5 @@ If in my discord about me i dont have how much days before bday then my bday pas
 [![My Skills](https://skillicons.dev/icons?i=html,css,astro)](https://skillicons.dev)
 ### Learning
 [![Learning/partially ik](https://skillicons.dev/icons?i=js,ts,tailwind,svelte)](https://skillicons.dev)
-<br>
-Yeah forgot alot about css
+
 
