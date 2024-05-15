@@ -36,7 +36,7 @@ If in my discord about me i dont have how much days before bday then my bday pas
 [![Learning/partially ik](https://skillicons.dev/icons?i=js,ts,tailwind,svelte)](https://skillicons.dev)
 
 ### Projects:
-My portfolio website - [I'm an inline-style link with title](https://github.com/Totallynotmwa/My-portfolio-website "Source")
+My portfolio website - [Source](https://github.com/Totallynotmwa/My-portfolio-website)
 
 
 
