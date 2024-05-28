@@ -17,16 +17,16 @@ detailed bio found in links
 [![Discord Presence](https://lanyard.cnrad.dev/api/834293703333642240)](https://discord.gg/z9ZkAY45bc)
 ### Online status meaning for above (Moved here cuz low charaters in discord and i might forgot to update status)
 🟢
-Can talk (Spam=ignored ping when reply)
+Can talk (Spam=ignored ping when reply response time 1-10+ minutes depends on what am doing )
 <br>
 ⛔
-Busy on smth else in my life
+Busy on smth else in my life (10+ minutes)
 <Br>
 🟡
-Praying,Idle,Left my pc on,Showering,etc
+Praying,Idle,Left my pc on,Showering,etc (2-5+ minutes)
 <br>
 ⚫
- Sleeping,alt,etc
+ Sleeping,alt,etc (1M-1D+)
 <br> 
 ### Note
 If in my discord about me i dont have how much days before bday then my bday passed
