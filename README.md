@@ -23,7 +23,7 @@ Can talk (Spam=ignored ping when reply response time 1-10+ minutes depends on wh
 Busy on smth else in my life (10+ minutes)
 <Br>
 🟡
-Praying,Idle,Left my pc on,Showering,etc (2-5+ minutes)
+Praying,Idle,Left my pc on,Showering,etc (2-20+ minutes)
 <br>
 ⚫
  Sleeping,alt,etc (1M-1D+)
