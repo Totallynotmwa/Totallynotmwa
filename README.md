@@ -6,7 +6,7 @@
 > [!NOTE]
 > In the future this section will be moved to html and css and js after i build the website and know it more<br>
 
- Hello am mwa am a 13 yr old(Almost 14) This is my github 
+ Hello am mwa am a 14 yr old This is my github 
 I use this site for free vps,downloading stuff,open sourcing stuff,etc
 detailed bio found in links  
 
